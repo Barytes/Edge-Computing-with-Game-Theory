@@ -1,6 +1,5 @@
 ## Mathematical References
-1. "Fixed Point Theorems with Applications to Economics and Game Theory" by Border K C.  
-   https://www.cambridge.org/core/books/fixed-point-theorems-with-applications-to-economics-and-game-theory/96CE40EA9730FAAF1000F8EF8AFF7013
+1. "Fixed Point Theorems with Applications to Economics and Game Theory" by Border K C.[link](https://www.cambridge.org/core/books/fixed-point-theorems-with-applications-to-economics-and-game-theory/96CE40EA9730FAAF1000F8EF8AFF7013)
 
 
 ## Overlapping Coalition Formation Game
