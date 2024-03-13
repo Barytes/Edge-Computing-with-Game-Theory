@@ -1,3 +1,7 @@
+## Mathematical References
+1. "Fixed Point Theorems with Applications to Economics and Game Theory" by Border K C.  
+   https://www.cambridge.org/core/books/fixed-point-theorems-with-applications-to-economics-and-game-theory/96CE40EA9730FAAF1000F8EF8AFF7013
+
 
 ## Overlapping Coalition Formation Game
 1. N. Qi, Z. Huang, F. Zhou, Q. Shi, Q. Wu and M. Xiao, "A Task-Driven Sequential Overlapping Coalition Formation Game for Resource Allocation in Heterogeneous UAV Networks," in IEEE Transactions on Mobile Computing, vol. 22, no. 8, pp. 4439-4455, 1 Aug. 2023, doi: 10.1109/TMC.2022.3165965.
