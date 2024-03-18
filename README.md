@@ -1,6 +1,8 @@
 ## Mathematical References
 1. "Fixed Point Theorems with Applications to Economics and Game Theory" by Border K C. [\[book\]](https://www.cambridge.org/core/books/fixed-point-theorems-with-applications-to-economics-and-game-theory/96CE40EA9730FAAF1000F8EF8AFF7013)
 
+### Generalized Equilibrium
+1. Christophe Dutang. Existence theorems for generalized Nash equilibrium problems: an analysis of assumptions. Journal of Nonlinear Analysis and Optimization, 2013, 4 (2), pp.115-126. hal-00828948v2 [\[paper\]](https://hal.science/hal-00828948/)
 
 ## Overlapping Coalition Formation Game
 1. N. Qi, Z. Huang, F. Zhou, Q. Shi, Q. Wu and M. Xiao, "A Task-Driven Sequential Overlapping Coalition Formation Game for Resource Allocation in Heterogeneous UAV Networks," in IEEE Transactions on Mobile Computing, vol. 22, no. 8, pp. 4439-4455, 1 Aug. 2023, doi: 10.1109/TMC.2022.3165965.
